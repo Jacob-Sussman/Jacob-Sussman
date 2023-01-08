@@ -1,0 +1,15 @@
+div > a {
+  margin: 0 20px;
+}
+
+.BBB_logo {
+   width: 32px; 
+  border: 1px solid black; 
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.Email {
+  width: 35px;
+  margin-bottom: 3px;
+}
