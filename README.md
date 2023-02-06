@@ -19,8 +19,6 @@
 Hello! My name is Jacob Sussman and I am a senior computer science student at Marquette University. When I'm not studying, I like to stay busy with coding, playing guitar, cooking, and exercising with friends. In addition to my studies, I am the founder of BitByBite, a software development firm focused on using artificial intelligence to solve real-world problems. I am always seeking new challenges and opportunities to grow and learn as a developer.
 
 ## 📊 Profile stats
-
-[![all-time contributions - 30](https://img.shields.io/badge/all--time_contributions-30-blue)](https://github.com/dabslee?tab=repositories)
 ![](https://komarev.com/ghpvc/?username=Jacob-Sussman&color=blue)
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jacob-Sussman&bg_color=80808020&hide_title=true&count_private=true&hide_border=true&text_color=808080" height="150"></img>
